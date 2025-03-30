@@ -6,5 +6,5 @@ Start a ssh agent and add a private key to git
 > [!note]
 > You need to have the key on the path ~/.ssh
 ```
-gsh private_key
+source gsh private_key
 ```
